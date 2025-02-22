@@ -13,5 +13,6 @@ pairs. Data are available at http://rangeland.ntsg.umt.edu/data/rap/chm-naip/.
 
 
 Citation:  
-Allred, B.W., S.E. McCord, and S.L. Morford. 2024. Canopy height model and NAIP
-imagery pairs across CONUS. bioRxiv. http://dx.doi.org/10.1101/2024.12.24.630202
+Allred, B.W., S.E. McCord, and S.L. Morford. 2025. Canopy height model and NAIP
+imagery pairs across CONUS. Scientific Data 12:322.
+http://dx.doi.org/10.1038/s41597-025-04655-z
